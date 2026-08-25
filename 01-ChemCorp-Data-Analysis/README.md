@@ -121,7 +121,25 @@ Explore the full interactive Tableau story:
 
 ## 📷 Dashboard Preview
 
-Selected dashboard views from the Tableau case study are included in the `screenshots` folder.
+### Executive Summary
+
+![Executive Summary](./screenshots/01-executive-summary.png)
+
+### Customer Market Size
+
+![Customer Market Size](./screenshots/02-customer-market-size.png)
+
+### Customers in Packaging
+
+![Customers in Packaging](./screenshots/03-customers-in-packaging.png)
+
+### Market Growth Opportunity
+
+![Market Growth Opportunity](./screenshots/04-market-growth-opportunity.png)
+
+### Customer Revenue by Geography
+
+![Customer Revenue by Geography](./screenshots/05-customer-revenue-geospatial.png)
 
 ## 👤 Author
 
