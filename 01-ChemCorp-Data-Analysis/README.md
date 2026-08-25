@@ -113,11 +113,11 @@ These markets represent potential priorities for targeted sales expansion.
 - Trend Analysis
 - Business Recommendations
 
-## 📈 Tableau Dashboard
+## 📈 Interactive Tableau Dashboard
 
-**View the interactive Tableau analysis:**
+Explore the full interactive Tableau story:
 
-[ChemCorp Inc. Data Analysis — Tableau Public](https://public.tableau.com/app/profile/faizan.malik8226/viz/ChemCorpIncDataAnalysis_17804880938740/Story2)
+[View ChemCorp Inc. Data Analysis on Tableau Public](https://public.tableau.com/views/ChemCorp_Final_Presentation/Story2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 📷 Dashboard Preview
 
