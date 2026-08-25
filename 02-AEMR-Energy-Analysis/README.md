@@ -110,7 +110,25 @@ Explore the full interactive Tableau presentation:
 
 ## 📷 Dashboard Preview
 
-Dashboard screenshots will be added here.
+### 1. Executive Summary
+
+![AEMR Executive Summary](./screenshots/01-executive-summary-.png)
+
+### 2. Energy Stability
+
+![AEMR Energy Stability](./screenshots/02-energy-stability-.png)
+
+### 3. Energy Losses
+
+![AEMR Energy Losses](./screenshots/03-energy-losses-.png)
+
+### 4. Outage Duration
+
+![AEMR Outage Duration](./screenshots/04-outage-duration-.png)
+
+### 5. Business Recommendations
+
+![AEMR Business Recommendations](./screenshots/05-business-recommendations-.png)
 
 ## 👤 Author
 
