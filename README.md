@@ -1,79 +1,175 @@
-# Faizan Malik — Data Analytics Portfolio
+# 📊 Faizan Malik — Data Analytics Portfolio
 
 Welcome to my Data Analytics portfolio.
 
-I have a background in Software Engineering and professional experience in creative and business-focused environments. I am transitioning into Data Analytics, combining my technical background with hands-on experience in SQL, Python, Excel, Tableau, and data visualization.
+I am a Software Engineering graduate transitioning into Data Analytics, with hands-on experience applying SQL, Python, Tableau, Excel, statistics, and business analysis to real-world datasets and case studies.
+
+My portfolio focuses on turning data into actionable business insights through data cleaning, exploratory analysis, KPI development, visualization, and business recommendations.
+
+---
 
 ## 🛠️ Technical Skills
 
-**Languages & Analysis**
+### Programming & Data Analysis
 
-* SQL
-* Python
-* Pandas
-* NumPy
+- SQL
+- Python
+- Pandas
+- NumPy
+- Jupyter Notebook
 
-**Data Visualization & BI**
+### Data Visualization & Business Intelligence
 
-* Tableau
-* Microsoft Excel
-* Data Visualization
-* Dashboard Development
+- Tableau
+- Microsoft Excel
+- Data Visualization
+- Dashboard Development
+- Business Intelligence
 
-**Analytics**
+### Analytics
 
-* Data Cleaning
-* Exploratory Data Analysis (EDA)
-* Descriptive Statistics
-* Statistical Analysis
-* KPI Analysis
-* Trend Analysis
-* Business Intelligence
-* Data Validation
-
-## 📊 Featured Projects
-
-### 🧪 ChemCorp Inc. Data Analysis
-
-**Tools:** Tableau | Data Analysis | Data Visualization | KPI Analysis
-
-Business focused analysis of ChemCorp Inc. using Tableau to evaluate company and sector performance, identify trends, and communicate actionable business insights.
-
-**[View Project →](./01-ChemCorp-Data-Analysis/)**
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Descriptive Statistics
+- Statistical Analysis
+- KPI Analysis
+- Trend Analysis
+- Data Validation
+- Business Analysis
+- Business Recommendations
 
 ---
 
-### ⚡ AEMR Energy Analysis
+# 📂 Featured Projects
 
-**Tools:** SQL | Tableau | Data Analysis | Data Visualization
+## 🧪 01 — ChemCorp Inc. Data Analysis
 
-Analysis of energy performance with a focus on energy stability, energy losses, and duration of losses.
+**Tools:** Tableau | Data Analysis | Business Intelligence | Data Visualization
 
-**[View Project →](./02-AEMR-Energy-Analysis/)**
+Business-focused analysis of ChemCorp Inc., a Fortune 500 chemical manufacturer, examining customer concentration, industry performance, product profitability, and geographic growth opportunities.
+
+### Key Focus
+
+- Revenue and profitability analysis
+- Customer concentration risk
+- Industry performance
+- Product margin analysis
+- Geographic sales opportunities
+- KPI analysis
+- Business recommendations
+
+**Project:** [View ChemCorp Analysis](./01-ChemCorp-Data-Analysis/)
+
+**Interactive Tableau Dashboard:**  
+[View on Tableau Public](https://public.tableau.com/views/ChemCorp_Final_Presentation/Story2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
-### 🏨 Hotel Booking Cancellation Analysis
+## ⚡ 02 — AEMR Energy Analysis
 
-**Tools:** Python | SQL | Pandas | NumPy | Tableau | Excel
+**Tools:** Tableau | Data Analysis | Data Visualization | Business Intelligence
 
-Analysis of hotel booking data to identify factors associated with cancellations and develop business recommendations to improve occupancy and revenue planning.
+Analysis of electricity outage events to identify the primary contributors to energy instability, energy loss, and prolonged outage duration.
 
-**[View Project →](./03-Hotel-Booking-Cancellation-Analysis/)**
+### Key Focus
 
-## 🎯 Career Focus
+- Outage frequency
+- Energy stability
+- Forced outage analysis
+- Energy loss
+- Outage duration
+- Participant-level analysis
+- Operational reliability
+- Business recommendations
 
-Currently pursuing opportunities in:
+### Executive Findings
 
-* Data Analyst
-* Junior Data Analyst
-* Business Analyst
-* BI Analyst
-* Business Intelligence
-* Data & Business Intelligence roles
+**AURICON → Outage Frequency**  
+Priority for reducing forced outage events.
 
-## 📫 Connect With Me
+**GW → Energy Loss**  
+Major contributor to forced energy loss.
 
-**LinkedIn:** www.linkedin.com/in/faizan-malik-da/
+**MELK → Outage Duration**  
+Longest total downtime identified in the analysis.
 
-**Tableau Public:** https://public.tableau.com/app/profile/faizan.malik8226/vizzes
+**Project:** [View AEMR Analysis](./02-AEMR-Energy-Analysis/)
+
+**Interactive Tableau Dashboard:**  
+[View on Tableau Public](https://public.tableau.com/views/AEMR_CaseStudy_Presentation_Tableau_Faizan/AEMRcasestudy_Presentation_Faizan?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+---
+
+## 🏨 03 — Hotel Booking Cancellation Analysis
+
+**Tools:** Python | SQL | Pandas | NumPy | Tableau | Excel | Statistics
+
+Analysis of hotel booking data to identify factors associated with booking cancellations and develop recommendations to improve occupancy, revenue planning, and demand forecasting.
+
+### Key Focus
+
+- Data cleaning
+- Exploratory data analysis
+- Cancellation rate analysis
+- Lead-time analysis
+- Market segment analysis
+- Deposit type analysis
+- Customer characteristics
+- Statistical analysis
+- SQL analysis
+- Tableau visualization
+- Business recommendations
+
+**Project:** Coming Soon
+
+---
+
+# 🎯 Career Focus
+
+I am currently seeking opportunities in:
+
+- Data Analyst
+- Junior Data Analyst
+- Business Analyst
+- BI Analyst
+- Business Intelligence
+- Data & Business Intelligence roles
+
+I am particularly interested in opportunities where I can combine technical analysis with business problem-solving and data visualization.
+
+---
+
+# 🎓 Education & Training
+
+### Software Engineering
+
+Software Engineering degree with a foundation in programming, databases, systems analysis, and software development.
+
+### Springboard — Data Analytics Career Program
+
+Hands-on training in:
+
+- SQL
+- Python
+- Pandas
+- NumPy
+- Tableau
+- Excel
+- Statistics
+- Data Visualization
+- Exploratory Data Analysis
+- Business Analytics
+
+---
+
+# 📫 Connect With Me
+
+**LinkedIn:**  
+[Faizan Malik](https://www.linkedin.com/in/faizan-malik-da/)
+
+**Tableau Public:**  
+[Faizan Malik — Tableau Public](https://public.tableau.com/app/profile/faizan.malik8226/vizzes)
+
+---
+
+⭐ Thank you for visiting my portfolio!
