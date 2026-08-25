@@ -104,7 +104,7 @@ Longest total downtime identified in the analysis.
 
 **Tools:** Python | SQL | Pandas | NumPy | Tableau | Excel | Statistics
 
-Analysis of hotel booking data to identify factors associated with booking cancellations and develop recommendations to improve occupancy, revenue planning, and demand forecasting.
+A data analytics case study investigating factors associated with hotel booking cancellations, with the goal of identifying actionable insights to improve occupancy, revenue planning, and demand forecasting.
 
 ### Key Focus
 
@@ -119,6 +119,8 @@ Analysis of hotel booking data to identify factors associated with booking cance
 - SQL analysis
 - Tableau visualization
 - Business recommendations
+
+**Status:** 🚧 In Progress — Springboard Data Analytics Capstone
 
 **Project:** Coming Soon
 
