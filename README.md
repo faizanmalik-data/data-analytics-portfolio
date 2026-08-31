@@ -174,11 +174,15 @@ Hands-on training in:
 
 # 📫 Connect With Me
 
-**LinkedIn:**
-[Faizan Malik](https://www.linkedin.com/in/faizan-malik-da/)
+💼 [LinkedIn](https://www.linkedin.com/in/faizan-malik-da/)
 
-**Tableau Public:**
-[Faizan Malik — Tableau Public](https://public.tableau.com/app/profile/faizan.malik8226/vizzes)
+📊 [Tableau Public](https://public.tableau.com/app/profile/faizan.malik8226/vizzes)
+
+📁 [Data Analytics Portfolio](https://github.com/faizanmalik-data/data-analytics-portfolio)
+
+📧 **Email:** [faaazimalik@gmail.com](mailto:faaazimalik@gmail.com)
+
+📱 **Phone:** +1 346 505 2970
 
 ---
 
