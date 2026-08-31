@@ -110,6 +110,36 @@ Investigate the unusually high cancellation rate for non-refundable bookings bef
 ### 6. Protect At-Risk Booking Value
 Use cancellation-risk indicators to prioritize reservations representing higher potential booking value and improve occupancy planning.
 
+## 🔍 Analysis Areas
+
+The analysis examined the following areas:
+
+* **Cancellation Rate**  Measured the overall scale of booking cancellations.
+* **Hotel Type**  Compared cancellation patterns between City and Resort Hotels.
+* **Lead Time**  Analyzed how the time between booking and arrival relates to cancellation risk.
+* **Deposit Type**  Evaluated cancellation behavior across deposit categories.
+* **Market Segment**  Identified segments associated with higher cancellation rates.
+* **Seasonality**  Examined how cancellation risk changes across arrival months.
+* **Booking Value**  Estimated the potential booking value associated with canceled reservations.
+
+## 🛠️ Tools & Skills
+
+* **Tableau**  Data visualization, dashboard development, and storytelling
+* **Python**  Data cleaning and exploratory data analysis
+* **Pandas & NumPy**  Data manipulation and analysis
+* **SQL**  Data querying and analysis
+* **Excel**  Data validation and analysis
+* **Business Analysis**  KPI analysis, trend analysis, and business recommendations
+
+## 📊 Tableau Public
+
+Explore the interactive Tableau analysis:
+
+**[View Interactive Tableau Dashboard](https://public.tableau.com/views/Tableau_hotel_booking_capstone_Faizan/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+
+The interactive dashboard allows users to explore cancellation patterns by hotel type, lead time, deposit type, market segment, and arrival month.
+
+
 ## 📷 Dashboard Preview
 
 ### 1. Emerging Business Challenges
@@ -139,3 +169,15 @@ Use cancellation-risk indicators to prioritize reservations representing higher 
 ### 7. Market Segment Risk
 
 <img src="screenshots/07-market-segment-risk.png" width="800">
+
+## 👤 Author
+
+**Faizan Malik**
+Data Analyst | SQL | Python | Tableau | Excel
+
+Houston, Texas
+
+🔗 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/faizan-malik-da/)
+
+🔗 **GitHub:** [View my GitHub Profile](https://github.com/faizanmalik-data)
+
