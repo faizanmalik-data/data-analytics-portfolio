@@ -61,7 +61,7 @@ Cancellation rates increase substantially as the booking lead time increases:
 
 Bookings made **365+ days in advance have a 24.46 percentage-point higher cancellation rate** than bookings made 0–30 days ahead.
 
-**Business implication:** Long-lead bookings should be monitored more closely and considered for proactive confirmation or retention strategies.
+**Business implication:** Long lead bookings should be monitored more closely and considered for proactive confirmation or retention strategies.
 
 ### 4. Non-Refundable Bookings Show an Unusual Cancellation Pattern
 
@@ -73,14 +73,14 @@ Because of the relatively small booking volume, this pattern should be **validat
 
 Cancellation rates vary considerably by arrival month.
 
-- **August:** 32.18% — highest
+- **August:** 32.18%  highest
 - **July:** 31.80%
 - **April:** 30.46%
-- **November:** 21.10% — lowest
+- **November:** 21.10%  lowest
 
 August's cancellation rate is **11.08 percentage points higher than November's**.
 
-**Business implication:** Hotels should increase cancellation monitoring and demand forecasting efforts during higher-risk summer months.
+**Business implication:** Hotels should increase cancellation monitoring and demand forecasting efforts during higher risk summer months.
 
 ### 6. Online TA Creates a Significant Cancellation Risk
 
@@ -99,7 +99,7 @@ Focus cancellation monitoring and occupancy protection efforts on City Hotels du
 Flag bookings made more than **180 days in advance**, with particular attention to bookings exceeding 365 days, where cancellation risk reaches 40.88%.
 
 ### 3. Strengthen Online TA Monitoring
-Prioritize Online TA reservations for proactive confirmation and cancellation-risk monitoring, particularly within City Hotels.
+Prioritize Online TA reservations for proactive confirmation and cancellation risk monitoring, particularly within City Hotels.
 
 ### 4. Increase Seasonal Monitoring
 Increase forecasting and cancellation monitoring during **July and August**, when cancellation rates are among the highest.
